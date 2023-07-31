@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/your_bot/static/css/main.90e4a650.css",
-    "main.js": "/your_bot/static/js/main.a6d69b60.js",
-    "static/js/787.32032a02.chunk.js": "/your_bot/static/js/787.32032a02.chunk.js",
-    "static/media/introheadr-base-webfont.woff": "/your_bot/static/media/introheadr-base-webfont.b2685469e63f508a8ddd.woff",
-    "static/media/introheadr-base-webfont.woff2": "/your_bot/static/media/introheadr-base-webfont.c17286f3e0af0aeeae1e.woff2",
-    "index.html": "/your_bot/index.html",
-    "main.90e4a650.css.map": "/your_bot/static/css/main.90e4a650.css.map",
-    "main.a6d69b60.js.map": "/your_bot/static/js/main.a6d69b60.js.map",
-    "787.32032a02.chunk.js.map": "/your_bot/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/static/css/main.15e71e1b.css",
+    "main.js": "/static/js/main.144e1e16.js",
+    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
+    "static/media/introheadr-base-webfont.woff": "/static/media/introheadr-base-webfont.b2685469e63f508a8ddd.woff",
+    "static/media/introheadr-base-webfont.woff2": "/static/media/introheadr-base-webfont.c17286f3e0af0aeeae1e.woff2",
+    "index.html": "/index.html",
+    "main.15e71e1b.css.map": "/static/css/main.15e71e1b.css.map",
+    "main.144e1e16.js.map": "/static/js/main.144e1e16.js.map",
+    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90e4a650.css",
-    "static/js/main.a6d69b60.js"
+    "static/css/main.15e71e1b.css",
+    "static/js/main.144e1e16.js"
   ]
 }
