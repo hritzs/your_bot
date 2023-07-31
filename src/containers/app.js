@@ -4,6 +4,7 @@ import Searchbox from '../components/searchbox';
 import './app.css'
 import Scroll from '../components/Scroll';
 import ErrorBoundary from '../components/ErrorBoundary';
+import Footer  from '../components/footer';
 class App extends Component {
     constructor(){
         super()
@@ -25,7 +26,7 @@ class App extends Component {
             return robots.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
         })
         if(this.state.robots.length === 0){
-            return <h1>LOADING</h1> 
+            return <h1>LOADING........</h1> 
         }
         else{
     return(
@@ -37,6 +38,7 @@ class App extends Component {
                     <Cardlist robots={filteredRobots}/>
                 </ErrorBoundary>
             </Scroll>
+            <Footer/>
         </div>
     );
         }
